@@ -639,6 +639,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [Animated Java](https://animated-java.dev/) — Blockbench animation workflow for Java Edition.
 - [Mine-imator](https://www.mineimator.com/) — Minecraft animation software.
 - [Chunky](https://chunky-dev.github.io/docs/) — Path-traced Minecraft renderer.
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/) — Free browser workbench for turning images into Minecraft block blueprints, editing block art, planning materials, and exporting NBT or PNG. **Specialized**
 
 ### Data Packs Commands and Generators
 
